@@ -1,12 +1,14 @@
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/xH5M11HKmYw"
+    title="YouTube video player"
+    style="position: absolute; top:0; left:0; width:100%; height:100%; border:0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 # ⚙️ LangGraph Code Review Pipeline
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/xH5M11HKmYw"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
 
 A **self-healing, multi-agent AI system** that takes a plain-English feature request and automatically generates, tests, and reviews production-quality Python code — retrying and learning from its own mistakes until the code is approved.
 
