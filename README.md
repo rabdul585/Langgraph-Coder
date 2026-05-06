@@ -1,5 +1,13 @@
 # ⚙️ LangGraph Code Review Pipeline
 
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/xH5M11HKmYw"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 A **self-healing, multi-agent AI system** that takes a plain-English feature request and automatically generates, tests, and reviews production-quality Python code — retrying and learning from its own mistakes until the code is approved.
 
 Built with **LangGraph** · **OpenRouter** · **Streamlit** · **Python 3.11+**
